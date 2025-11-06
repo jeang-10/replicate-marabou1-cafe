@@ -1,0 +1,141 @@
+
+body{ margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #f4a71e;
+    color: #2d1b00;
+
+}
+.welcome-section{ 
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 60px 80px;
+    gap: 40px;
+}
+.welcome-text{ 
+    max-width: 550px;
+}
+.welcome-text h1{ 
+    font-size: 2,8rem;
+    font-weight: 700;
+    font-family: "poppins", serif;
+   margin-bottom: 10px;
+
+}
+.welcome-text h2{ 
+    font-size:50px;
+    line-height: 1.3;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+.welcome-text p{ 
+    font-size: 2rem;
+    line-height: 1.8;
+    margin-bottom: 40px;
+    
+}
+.button{ 
+    display: inline-block;
+    background-color: #f2671f;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 40px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0,3s;
+    margin-top: 50px;
+
+
+}
+.button:hover{ 
+    background-color: #cf500b;
+}
+   a: hover{
+    back
+}
+.images { 
+    display: flex;
+    gap: 30px;
+}
+.images img{ 
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 8px 20px rgba(0,0,0.2);
+
+    
+
+}
+  .main-text::first-letter{ 
+font-size: xx-large;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+h2{ box-sizing: border-box;
+    color: rgb (0,0,0);
+    display: inline;
+    font-family: Berkshire Swash,handwriting;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    height: auto;
+}
+h3{ box-sizing: border-box;
+    color:rgb(49, 51, 56);
+    display: block;
+    font-family: Raleway, sans-serif;
+    font-size: 13.68px;
+    font-style: normal;
+    font-weight: 400;
+    height: 185.771px;
+
+}
+p{ box-sizing: border-box;
+    caret-color: rgb(0,0,0);
+    color: rgb(0,0,0);
+    display: inline;
+    font-family: webkit-standard;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    height: auto;
+    line-height: 23.256px;
+    overflow-wrap: break-word;
+    text-align: center;
+    text-size-adjust: 100px;
+    white-space-collapse: collapse;
+    width: auto ;
+   -webkit-font-smoothing:antialiased;
+}
+a{  box-sizing: border-box;
+    color: rgb(49, 51, 56);
+    display: block;
+    font-family: Raleway, sans-serif;
+    font-size: 13.68px;
+    font-style: normal;
+    font-weight: 400;
+    height: 45.6771px;
+    line-height: 23,256px;
+    overflow-wrap: break-word;
+    text-align: center;
+    text-size-adjust: 100%;
+    unicode-bidi: isolate;
+    width: 656px;
+    -webkit-font-smoothing:antialiased;
+}
+
+
+
+
+
+
